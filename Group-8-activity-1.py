@@ -77,3 +77,5 @@ def main():
     turtle.exitonclick() # exit on click when done.
 
 main() #calls the main function
+
+#this is the end of the program 
