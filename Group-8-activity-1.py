@@ -4,7 +4,12 @@ Done by Khaled Abusharbain (contribution: hexagon shape, pattern function, main 
  zarak khan(square function shape), nour abdelwahed  (circle function)
  This module code has multiple functions with 3 different shapes to create a pattern of 3 shapes , it allows the user to choose his own shape color 
  and border.
-"""
+
+ Link to the GITHUB repository: https://github.com/zk9059/Group-8-Activity-1-GCIS 
+
+ 
+ 
+ """
 
 import turtle
 
